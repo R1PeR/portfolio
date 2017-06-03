@@ -1,0 +1,80 @@
+body{
+background-color:#ccc;
+}
+#navbar-container{
+width:70%;
+}
+#main-content{
+margin-top:50px;
+text-align:center;
+background-color:#fff;
+}
+h3{
+font-family: 'Pacifico', cursive;
+font-size: 300%;
+}
+#navbar-container a{
+font-family: 'Anton', sans-serif;
+font-size:150%;
+color:#fff;
+}
+.navbar{
+background-color:#4f6fad;;
+}
+p{
+font-family: 'BenchNine', sans-serif;
+font-size: 150%;
+border-radius: 0 !important;
+border-style: none;
+border-bottom: 4px solid;
+border-color: #4f6fad;;
+}
+#main-content h3{
+margin:50px 0 70px 0;
+}
+form{
+margin-bottom: 50px;
+}
+#footer-page{
+padding-top: 50px;
+text-align:center;
+padding-bottom: 20px;
+background-color:#fff;
+}
+.form-control, .btn{
+font-family: 'BenchNine', sans-serif;
+font-size: 150%;
+text-align: center;
+border-style: none;
+border-bottom: 4px solid;
+border-color: #4f6fad;;
+}
+textarea {
+resize: none;
+}
+.scale{
+width:100%;
+}
+.icon{
+min-width:40px;
+min-height:40px;
+}
+.thumbnail{
+border-radius: 0 !important;
+border-style: none;
+}
+.portfolio-img{
+border-style: none;
+border-bottom: 6px solid;
+border-color: #4f6fad;;
+}.navbar-nav li a{
+  text-align:center;
+}
+.navbar-toggle{
+border-style: solid;;
+border-color: #4f6fad;
+border-radius: 0;
+}
+.navbar-default .navbar-toggle .icon-bar{
+background-color: white;
+}
