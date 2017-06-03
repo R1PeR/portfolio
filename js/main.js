@@ -1,3 +1,4 @@
+$(document).ready(function() {
 $("a.scroll-to").on('click', function(){
   var scrollTo = $(this).attr('data-scroll-to');
 
@@ -7,4 +8,5 @@ $("a.scroll-to").on('click', function(){
   }, 1000 );
   console.log(5 + 6);
   return false;
- })
+});
+});
