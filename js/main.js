@@ -5,5 +5,6 @@ $("a.scroll-to").on('click', function(){
 
     "scrollTop": $("#"+scrollTo).offset().top-20
   }, 1000 );
+  console.log(5 + 6);
   return false;
  })
